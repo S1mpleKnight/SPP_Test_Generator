@@ -12,7 +12,7 @@ namespace LR4_SPP
           static void Main(string[] args)
           {
                string outputPath = "D:\\Tests";
-               string path = "D:\\Code\\Stealed\\Spp\\LR4_SPP-master\\TestsGeneratorLibrary\\Writer.cs";
+                string path = "D:\\Code\\Git\\C#\\SPP\\SPP_Test_Generator\\LR4_SPP\\LR4_SPP\\TestsGeneratorLibrary\\Writer.cs";
 
                List<string> pathes = new List<string>();
                pathes.Add(path);
